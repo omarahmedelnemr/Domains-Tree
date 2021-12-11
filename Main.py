@@ -1,8 +1,8 @@
-from dt import Node,SLinkedList
+from dt import Node
 
 
 
-list_of_domains = ['www.meet.google.com','www.cloud.google.com','www.youtube.com']#,'www.todo.google.com']
+list_of_domains = ['www.meet.google.com','www.cloud.google.com','www.youtube.com','www.todo.google.com']
 # data Parsing
 i=0
 while i < len(list_of_domains):
